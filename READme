@@ -1,5 +1,6 @@
 # Running IMDb Top 1000 Movie Dashboard
-
+## Preview
+![IMDb Dashboard Preview](assets/visualisation.png)
 To run program (Windows):
 -
 - Create a virtual environment on directory by running: **python -m venv venv**
